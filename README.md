@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there! ✨​ I'm Cansu Değer
+# Merhaba! 💜​ Ben Cansu Değer
 
-### 💜 Software Developer | AI Enthusiast 
+###  Software Developer | AI Enthusiast 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code+💻;AI+%26+Machine+Learning+lover+🤖;Drone+systems+%26+IoT+explorer+🚁;Always+learning%2C+always+building+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=&lines=Turning+ideas+into+code+💻;AI+%26+Machine+Learning+lover+🤖;Web+%26+Mobile+Developer+🌐;Always+learning%2C+always+building+✨ alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,13 @@
 
 ## 🙋‍♀️ Hakkımda
 
-Merhaba! Ben Cansu. Yazılım tutkumu yapay zeka, drone sistemleri ve IoT projeleriyle harmanlıyorum. Hem masaüstü hem web hem mobil tarafta projeler üretmekten büyük keyif alıyorum! ✨
+Merhaba! Ben Cansu — yazılım dünyasını üniversitede keşfeden ve o günden beri durmadan öğrenen bir yazılım geliştiricisiyim. 
+
+Yapay zeka, görüntü işleme ve drone sistemleri gibi birbirinden farklı alanlarda projeler geliştiriyorum. Sadece kod yazmakla kalmıyor, gerçek dünya problemlerine çözüm üretmeyi hedefliyorum. Python'dan C#'a, React Native'den ArduPilot'a kadar geniş bir teknoloji yelpazesinde kendimi geliştirmeye devam ediyorum.
+
+Üniversite hayatım boyunca hem teorik bilgiyi hem de pratiği bir arada yürütmeye özen gösterdim.
+
+Hedefim; büyük ve global ölçekte etki yaratan bir yazılım firmasında, öğrenmeye ve üretmeye devam ederek kariyer kurmak. 
 
 ---
 
@@ -24,6 +30,7 @@ Merhaba! Ben Cansu. Yazılım tutkumu yapay zeka, drone sistemleri ve IoT projel
 | 🌐 Web Geliştirme | Frontend & Backend projeler |
 | 📱 Mobil Geliştirme | Cross-platform uygulamalar |
 | 🖥️ Masaüstü Uygulaması | .NET tabanlı masaüstü yazılımları |
+| 👁️ Görüntü İşleme | OpenCV ile görsel analiz ve işleme |
 
 ---
 
@@ -96,7 +103,7 @@ Merhaba! Ben Cansu. Yazılım tutkumu yapay zeka, drone sistemleri ve IoT projel
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CansuDeger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cansu-de%C4%9Fer-25ab152a9/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CansuDeger)
 
 </div>
