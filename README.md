@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there! 👋 I'm Cansu Değer
+# Hey there! ✨​ I'm Cansu Değer
 
-### 💜 Software Developer | AI Enthusiast | Drone & IoT Explorer
+### 💜 Software Developer | AI Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code+💻;AI+%26+Machine+Learning+lover+🤖;Drone+systems+%26+IoT+explorer+🚁;Always+learning%2C+always+building+✨" alt="Typing SVG" />
 
