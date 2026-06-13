@@ -10,7 +10,7 @@
 
 ---
 
-## 🙋‍♀️ Hakkımda
+##  Hakkımda
 
 Merhaba! Ben Cansu — yazılım dünyasını üniversitede keşfeden ve o günden beri durmadan öğrenen bir yazılım geliştiricisiyim. 
 
@@ -34,7 +34,7 @@ Hedefim; büyük ve global ölçekte etki yaratan bir yazılım firmasında, ö�
 
 ---
 
-## 🚀 Harici Çalıştığı Alanlar
+##  Harici Çalıştığı Alanlar
 
 | Alan | Teknolojiler |
 |------|-------------|
@@ -43,9 +43,9 @@ Hedefim; büyük ve global ölçekte etki yaratan bir yazılım firmasında, ö�
 
 ---
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
-### 💜 Programlama Dilleri
+####  Programlama Dilleri
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-A78BFA?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white)
@@ -54,18 +54,18 @@ Hedefim; büyük ve global ölçekte etki yaratan bir yazılım firmasında, ö�
 ![PHP](https://img.shields.io/badge/PHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web & Mobil
+#### Web & Mobil
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-A78BFA?style=for-the-badge&logo=react&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗄️ Veritabanı
+#### Veritabanı
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-A78BFA?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 Yapay Zeka & Veri
+#### Yapay Zeka & Veri
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-A78BFA?style=for-the-badge&logo=numpy&logoColor=white)
@@ -74,7 +74,7 @@ Hedefim; büyük ve global ölçekte etki yaratan bir yazılım firmasında, ö�
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🚁 Drone & IoT
+#### Drone & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-6D28D9?style=for-the-badge&logo=espressif&logoColor=white)
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-A78BFA?style=for-the-badge&logo=aeroflot&logoColor=white)
@@ -84,7 +84,7 @@ Hedefim; büyük ve global ölçekte etki yaratan bir yazılım firmasında, ö�
 
 ---
 
-## 📊 GitHub İstatistikleri
+##  GitHub İstatistikleri
 
 <div align="center">
 
