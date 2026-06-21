@@ -2,7 +2,7 @@
 
 # Merhaba! 💜​ Ben Cansu Değer
 
-###  Software Developer | AI Enthusiast 
+###  Computer Engineering Student | AI Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code+💻;AI+%26+Machine+Learning+lover+🤖;Web+%26+Mobile+Developer+🌐;Always+learning%2C+always+building+✨" alt="Typing SVG" />
 
